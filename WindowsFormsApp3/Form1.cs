@@ -50,7 +50,7 @@ namespace WindowsFormsApp3
 
             while (!acabou)
             {
-                sort = ra.Next(20000);
+                sort = ra.Next(2000000);
 
                 switch (sort)
                 {
